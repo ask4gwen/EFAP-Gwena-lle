@@ -1,0 +1,19 @@
+body {
+    background-color: #fff0f3;
+    text-align: center;
+}
+h1 {
+    color: #ff4d6d;
+}
+h2 {
+    color: #ff758f
+}
+p {
+    color: #ffb3c1
+}
+img {
+    width: 400px
+}
+a {
+    display: block;
+}
